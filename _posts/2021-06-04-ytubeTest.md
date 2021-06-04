@@ -4,4 +4,5 @@ layout: single
 ---
 
 동영상 삽입  
-{% include video id="kDm1WCdy1Lk" provider="youtube" %}
+
+{% include video id="kDm1WCdy1LK" provider="youtube" %}
